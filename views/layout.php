@@ -20,7 +20,7 @@
 <body class="bg-light d-flex flex-column min-vh-100">
     <nav class="navbar navbar-expand-lg navbar-dark shadow-sm bg-azul-oscuro">
         <div class="container">
-            <a class="navbar-brand fw-bold" href="/base_perez/">
+            <a class="navbar-brand fw-bold" href="/app01_avpc/">
                 <img src="<?= asset('images/cit.png') ?>" alt="Logo" width="32" height="32" class="me-2">
                 INICIO
             </a>
@@ -30,7 +30,7 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/base_perez/usuarios">Usuarios</a>
+                        <a class="nav-link" href="/app01_avpc/productos">PRODUCTOS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#scrollspyHeading2">Second</a>
